@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.chart.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="526.0" prefWidth="412.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane fx:id="topbar" prefHeight="68.0" prefWidth="412.0" style="-fx-background-color: #3D4956;" />
+      <AnchorPane fx:id="user" layoutX="1.0" layoutY="86.0" prefHeight="452.0" prefWidth="412.0" style="-fx-background-color: #3D4956;" />
+      <AnchorPane fx:id="stats" layoutY="87.0" prefHeight="452.0" prefWidth="412.0" style="-fx-background-color: #3D4956;" />
+      <AnchorPane fx:id="awards" layoutX="1.0" layoutY="86.0" prefHeight="452.0" prefWidth="412.0" style="-fx-background-color: #3D4956;" />
+      <AnchorPane fx:id="awards1" layoutX="1.0" layoutY="86.0" prefHeight="452.0" prefWidth="412.0" style="-fx-background-color: #3D4956;" />
+   </children>
+</AnchorPane>
